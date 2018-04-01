@@ -1,0 +1,45 @@
+# Copyright (c) 1993-2006 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+# 
+# For example:
+# 
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handle within DNS itself.
+#       127.0.0.1       localhost
+#       ::1             localhost
+127.0.0.1 host212.capita.com   
+127.0.0.1 host215.capita.com   
+127.0.0.1 host218.capita.com   
+127.0.0.1 host220.capita.com   
+127.0.0.1 host221.capita.com   
+127.0.0.1 host210.capita.com   
+127.0.0.1 host217.capita.com   
+127.0.0.1 host222.capita.com   
+127.0.0.1 host209.capita.com   
+127.0.0.1 host211.capita.com   
+127.0.0.1 host214.capita.com   
+127.0.0.1 host213.capita.com   
+127.0.0.1 host216.capita.com   
+127.0.0.1 host219.capita.com   
+127.0.0.1 smtp2.capita.co.uk   
+127.0.0.1 mail.secure.capita.co.uk   
+127.0.0.1 tlsgw01.capita.co.uk   
+127.0.0.1 webcomp.capita.co.uk   
+127.0.0.1 mm02.capita.co.uk   
+127.0.0.1 www.stationery.capita.co.uk   
+127.0.0.1 mm01.capita.co.uk   
+127.0.0.1 mailhost.capita.co.uk   
+127.0.0.1 sip.capita.co.uk   
+127.0.0.1 smtp1.capita.co.uk   
