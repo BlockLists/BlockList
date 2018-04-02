@@ -1,24 +1,10 @@
-# Copyright (c) 1993-2006 Microsoft Corp.
-#
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
-#
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
-# space.
-#
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
-# 
-# For example:
-# 
-#      102.54.94.97     rhino.acme.com          # source server
-#       38.25.63.10     x.acme.com              # x client host
-
-# localhost name resolution is handle within DNS itself.
-#       127.0.0.1       localhost
-#       ::1             localhost
+#####################################################################
+# Ant-Techs.is            #
+# Generated on 2018-04-02 14:00:01 UTC                              #
+#                                                                   #
+# For questions please refer to:                                    #
+# https://ant-techs.is                    #
+#####################################################################
 127.0.0.1 swift5.store.cloud.bbc.co.uk   
 127.0.0.1 141-205.ch.bbc.co.uk   
 127.0.0.1 gateu.telhc.bbc.co.uk   
